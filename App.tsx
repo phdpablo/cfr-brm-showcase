@@ -251,8 +251,8 @@ const App: React.FC = () => {
                 <p className="text-xs text-brand-green/40 mt-1">Behavior Research Methods</p>
             </div>
             <div className="flex gap-4">
-                 <a href="#" className="text-brand-green hover:text-white transition-colors text-sm">Download JASP File</a>
-                 <a href="#" className="text-brand-green hover:text-white transition-colors text-sm">R Scripts</a>
+                 <a href="https://github.com/phdpablo/cfa-brm/tree/main/jasp" target="_blank" rel="noopener noreferrer" className="text-brand-green hover:text-white transition-colors text-sm">Download JASP File</a>
+                 <a href="https://phdpablo.github.io/cfa-brm/" target="_blank" rel="noopener noreferrer" className="text-brand-green hover:text-white transition-colors text-sm">R Scripts</a>
             </div>
         </div>
         <div className="text-center mt-12 text-xs text-brand-blue/40">
