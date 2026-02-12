@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // IMPORTANTE: Isso deve corresponder ao nome do seu repositório no GitHub
-  base: '/cfr-brm-showcase/',
+  base: '/cfa-brm-showcase/',
 })
